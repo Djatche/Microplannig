@@ -46,5 +46,5 @@ La projection pour la zone étudiée est : WGS 84 / UTM zone 32N EPSG:32632
 ## Analyse spatiale
 - Jointure spatiale: récupérer les points appartenant exclusivement à une surface
 - Zone tampon
-- distance
+- Distance
 - Superficie
