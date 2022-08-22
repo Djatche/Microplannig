@@ -40,11 +40,11 @@ La projection pour la zone étudiée est : WGS 84 / UTM zone 32N EPSG:32632
 - Visualiser ces données
 
 ## Visualisation
-## Visualiser plusieurs couches sur le même graphique
-## Visualiser avec Folium
+- Visualiser plusieurs couches sur le même graphique
+- Visualiser avec Folium
 
 ## Analyse spatiale
-### Jointure spatiale: récupérer les points appartenant exclusivement à une surface
-### Zone tampon
-### distance
-### Superficie
+- Jointure spatiale: récupérer les points appartenant exclusivement à une surface
+- Zone tampon
+- distance
+- Superficie
