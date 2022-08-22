@@ -23,14 +23,14 @@ L'utilisation de ces outils permet de répondre à des questions telles que:
 Le présent travaille vise à montrer l'importance des systèmes d'information géographique, du mobile health (kobotoolbox) ainsi que les outils de data analyse (python et ses librairies) dans la microplanification.
 
 ## Datasets
-Cinq (5) fichiers ont été utilisés pour ce travail de microplanification des activités de santé.
+Cinq (5) fichiers ont été utilisés pour ce travail de microplanification des activités de santé:
 
-Le shapefile des aires du district de santé de YOKO qui comporte les données des 8 aires de santé.
-Le fichier shapefile de l'aire de santé de NDJOLE
-Le fichier shapefile de toutes les formations sanitaires du district de santé de YOKO
-Le fichier excel des points d'intêrets d'une partie de l'aire de NDJOLE. Ces points ont été collectés à partir de l'outil kobocollect.
-Le fichier geojson avec les limites administratives des arrondissements du Cameroun.
-La projection pour la zone étudiée est : WGS 84 / UTM zone 32N EPSG:32632
+- Le shapefile des aires du district de santé de YOKO qui comporte les données des 8 aires de santé.
+- Le fichier shapefile de l'aire de santé de NDJOLE
+- Le fichier shapefile de toutes les formations sanitaires du district de santé de YOKO
+- Le fichier excel des points d'intêrets d'une partie de l'aire de NDJOLE. Ces points ont été collectés à partir de l'outil kobocollect.
+- Le fichier geojson avec les limites administratives des arrondissements du Cameroun.
+- La projection pour la zone étudiée est : WGS 84 / UTM zone 32N EPSG:32632
 
 ## Acquisition, nettoyage et exploration de données.
 - Acquerir les données
